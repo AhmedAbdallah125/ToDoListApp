@@ -21,7 +21,6 @@
 		E29699B327FC486200836106 /* DoneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E29699B227FC486200836106 /* DoneViewController.m */; };
 		E29699B527FC505300836106 /* ToDoList.plist in Resources */ = {isa = PBXBuildFile; fileRef = E29699B427FC505300836106 /* ToDoList.plist */; };
 		E29699B827FC584500836106 /* Task.m in Sources */ = {isa = PBXBuildFile; fileRef = E29699B727FC584500836106 /* Task.m */; };
-		E2E3277B27FDB70000B1C444 /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2E3277A27FDB70000B1C444 /* AViewController.m */; };
 		E2E3277E27FDB89300B1C444 /* DViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2E3277D27FDB89300B1C444 /* DViewController.m */; };
 		E2E8248D27FCD47500BA3025 /* UserDefault.m in Sources */ = {isa = PBXBuildFile; fileRef = E2E8248C27FCD47500BA3025 /* UserDefault.m */; };
 		E2E8249027FCE37500BA3025 /* MyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E2E8248F27FCE37500BA3025 /* MyTableViewCell.m */; };
@@ -54,8 +53,6 @@
 		E29699B427FC505300836106 /* ToDoList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ToDoList.plist; sourceTree = "<group>"; };
 		E29699B627FC584500836106 /* Task.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Task.h; sourceTree = "<group>"; };
 		E29699B727FC584500836106 /* Task.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Task.m; sourceTree = "<group>"; };
-		E2E3277927FDB70000B1C444 /* AViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
-		E2E3277A27FDB70000B1C444 /* AViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
 		E2E3277C27FDB89300B1C444 /* DViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DViewController.h; sourceTree = "<group>"; };
 		E2E3277D27FDB89300B1C444 /* DViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DViewController.m; sourceTree = "<group>"; };
 		E2E8248B27FCD47500BA3025 /* UserDefault.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UserDefault.h; sourceTree = "<group>"; };
@@ -108,8 +105,6 @@
 				E2E8248F27FCE37500BA3025 /* MyTableViewCell.m */,
 				E29699B427FC505300836106 /* ToDoList.plist */,
 				E296999B27FC392C00836106 /* Main.storyboard */,
-				E2E3277927FDB70000B1C444 /* AViewController.h */,
-				E2E3277A27FDB70000B1C444 /* AViewController.m */,
 				E209E24B27FDA6C900C7DA4A /* DisplayViewController.h */,
 				E209E24C27FDA6C900C7DA4A /* DisplayViewController.m */,
 				E209E24827FD9BF900C7DA4A /* EditViewController.h */,
@@ -213,7 +208,6 @@
 				E29699AD27FC46DE00836106 /* InProgressViewController.m in Sources */,
 				E29699B027FC483F00836106 /* AddViewController.m in Sources */,
 				E29699B827FC584500836106 /* Task.m in Sources */,
-				E2E3277B27FDB70000B1C444 /* AViewController.m in Sources */,
 				E296999427FC392C00836106 /* AppDelegate.m in Sources */,
 				E29699A527FC392E00836106 /* main.m in Sources */,
 				E296999727FC392C00836106 /* SceneDelegate.m in Sources */,
