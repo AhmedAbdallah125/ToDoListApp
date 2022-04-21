@@ -1,6 +1,6 @@
 # ToDoListApp
 
- To Do List Native Mobile IOS Application, open-source and free, using design architecture MVC.
+ To Do List Native Mobile IOS Application, open-source and free, using Obejective-c  and design architecture MVC.
  
  
 ## Contributers:
